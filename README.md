@@ -1,11 +1,14 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS
+#### Technical Skills: Python, SQL, AWS, Power BI, GIT, Command Line
 
 ## Education
 - Ph.D., Computer Science | International Islamic University Malaysia (_Expected-2027_)								       		
 - M.S., Business Intelligence & Analytics	|  International Islamic University Malaysia (_August 2023_)	 			        		
-- M.B.B.S, Medicine & Surgery (MBBS) | International Islamic University Malaysia (_December 2021_)
+- M.B.B.S, Medicine & Surgery | International Islamic University Malaysia (_December 2021_)
+
+## Certificate
+- AWS Certified Cloud Practitioner-CLF-C02 (_2023_)
 
 ## Work Experience
 **Data Scientist @ MyDocLab (_November 2023 - Present_)**
