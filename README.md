@@ -17,7 +17,7 @@
 - Conducted in-depth data analysis using advanced SQL techniques and data visualization tools to uncover patterns and trends related to Fraud sellers. Identified key metrics to predict potential Fraud Sellers, contributing valuable insights to Data Scientists for further investigation.
 
 ## Publications/Thesis
-### DATA MINING APPROACHES AND RACIAL (ALGORITHMIC) BIAS IN HEALTHCARE FOR HYPERTENSION AND HYPERLIPIDEMIA
+### Data Mining Approaches and Racial (Algorithmic) Bias in Healthcare for Hypertension And Hyperlipidemia
 
 This study employs machine learning models (including Random Forest, Logistic Regression, XGBoost etc.) for the correlations and predictive modeling of hypertension and hyperlipidemia using the NHANES dataset. The analysis reveals noteworthy associations with various conditions such as prescription medication use, hyperlipidemia, difficulty stooping, diabetes, and arthritis. The models were implemented using Python (Scikit-learn), emphasizing the study's reliance on advanced computational techniques to gain insights into these health conditions.
 
