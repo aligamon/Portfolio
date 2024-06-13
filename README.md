@@ -24,7 +24,7 @@
 
 ## Freelance Projects
 **Klinik Kesihatan (Alor Gajah District) , Remote— Data Analyst (_April 2024_)**
--Analyze thalassemia cases using GIS tools like GeoJSON and Plotly, creating interactive visualizations to highlight epidemiological
+- Analyze thalassemia cases using GIS tools like GeoJSON and Plotly, creating interactive visualizations to highlight epidemiological
 patterns within school populations. These insights inform strategic
 interventions and healthcare resource allocation.
 
