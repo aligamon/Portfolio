@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Power BI, GIT, Command Line
+#### Technical Skills: Python (Tensorflow/Scikit-Learn(Machine Learning), Flask/Dash (Web Development), Pandas (Data Preparation), Database (MySQL, MongoDB), AWS, Power BI, GIT, Command Line
 
 ## Education
 - Ph.D., Computer Science | International Islamic University Malaysia (_Expected-2027_)								       		
