@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Project Website: [ML and Dashboard Website] (https://nhanesdm-5a06a4078888.herokuapp.com/), [Github Repo] [https://nhanesdm-5a06a4078888.herokuapp.com/](https://github.com/aligamon/nhanesDM)
+### Project Website: [ML and Dashboard Website] (https://nhanesdm-5a06a4078888.herokuapp.com/), [Github Repo] (https://github.com/aligamon/nhanesDM)
 
 #### Technical Skills: Python (Tensorflow/Scikit-Learn(Machine Learning), Flask/Dash (Web Development), Pandas (Data Preparation), Database (MySQL, MongoDB), AWS, Power BI, GIT, Command Line
 
